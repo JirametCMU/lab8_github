@@ -13,6 +13,7 @@ namespace lab8_github
         //input system
         private string inputNum = "";
         private string inputNum2 = "";
+        private int result = 0;
 
 
         public Game1()
