@@ -16,6 +16,8 @@ namespace lab8_github
         private int result = 0;
         private bool isFirstCom = false;
 
+        //movement system
+        private int playerJumpRange = 10;
 
         public Game1()
         {
