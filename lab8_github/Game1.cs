@@ -14,6 +14,7 @@ namespace lab8_github
         private string inputNum = "";
         private string inputNum2 = "";
         private int result = 0;
+        private bool isFirstCom = false;
 
 
         public Game1()
