@@ -9,6 +9,12 @@ namespace lab8_github
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
 
+
+        //input system
+        private string inputNum = "";
+        private string inputNum2 = "";
+
+
         public Game1()
         {
             _graphics = new GraphicsDeviceManager(this);
